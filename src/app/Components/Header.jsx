@@ -4,7 +4,7 @@ import {AiFillHome} from 'react-icons/ai'
 import {FcAbout} from 'react-icons/fc'
 import DarkModeSwitch from './DarkModeSwitch';
 function Headers() {
-  return <div className='flex justify-between mx-2 items-center py-2'>
+  return <div className='flex justify-between mx-2 max-w-6xl sm:mx-auto items-center py-2'>
     <div className='menu-items flex'>
     <MenuItems title="Home" address="/" Icon={AiFillHome} />
     <MenuItems title="About" address="/about" Icon={FcAbout} />
