@@ -18,7 +18,7 @@ Welcome to the official GitHub repository for "MovieFlix"! 🎉🎞️
 
 Ready to dive in? 🏊‍♂️ Grab your popcorn and click that star button to show your support! ⭐
 
-Explore the "MovieFlix" app now: 👉 [Live Demo](https://www.movieflix-app.com)
+Explore the "MovieFlix" app now: 👉 [Live Demo](https://imdb-movie-app.vercel.app/)
 
 Happy movie-watching! 🍿🎉
 
